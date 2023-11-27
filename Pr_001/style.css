@@ -1,0 +1,21 @@
+p {
+    
+}
+
+ul {
+
+}
+
+button {
+   border: 1px solid;
+   display: inline-block;
+   width: 100px;
+   margin: 10px;
+   padding: 10px;
+   text-align: center;
+}
+
+button[yes]:hover{
+    background-color: green;
+
+}
